@@ -1,7 +1,7 @@
 
 # Statistical Control Process
 
-This repository contains an R script to analyze process data using Statistical Process Control (SPC) techniques.
+This repository contains an R script to analyze process data using Statistical Process Control (SPC) techniques. It allows for automatic search for anomalies in sequential data. It is important when it comes for analysis of production or sensor data.
 
 ## Features
 
